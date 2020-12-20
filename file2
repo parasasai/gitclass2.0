@@ -1,4 +1,8 @@
 this file2 
 rebase1 to 2
+<<<<<<< HEAD
 rebase 3 to 4
 this is tag
+=======is
+
+>>>>>>> cd352dced358e812b6bd25f9ad6ef9e89ca49db7
